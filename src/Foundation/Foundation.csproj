@@ -1651,7 +1651,6 @@
     <Content Include="Assets\js\main.min.js" />
     <Content Include="ClientResources\Scripts\fontawesomeicons.js" />
     <Content Include="Assets\js\common\notification-helper.js" />
-    <Content Include="Assets\js\vendors\notify.js" />
     <Content Include="Assets\js\vendors\gijgo\gijgo.min.js" />
     <Content Include="Assets\js\vendors\gijgo\messages\messages.bg-bg.js" />
     <Content Include="Assets\js\vendors\gijgo\messages\messages.bg-bg.min.js" />
