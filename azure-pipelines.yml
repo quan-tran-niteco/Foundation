@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'LocalAgent'
+  vmImage: 'CLAND-QUANTRAN'
 
 variables:
   solution: '**/*.sln'
