@@ -1,0 +1,28 @@
+{
+  "merchantCode": "1tSa6uxz2nSQMXL6lQpN3A==",
+  "merchantRefNum": "637442467879097026",
+  "customerMobile": "010xxxxxxx",
+  "customerEmail": "email@domain.com",
+  "customerName": "Quan Tran",
+  "customerProfileId": "1212",
+  "returnUrl": "https://elux-apac-dev.niteco.asia/fawry/Home/callback",
+  "authCaptureModePayment": false,
+  "signature": "445f6ac24d7abb22b413a0b4cb0f1bd60823b2680cc22a50d09656ad66cadf0b",
+  "paymentExpiry": null,
+  "chargeItems": [
+    {
+      "itemId": "Prod001",
+      "description": "Product 4",
+      "price": "760.00",
+      "quantity": 1,
+      "imageUrl": "https://developer.fawrystaging.com/fawrypay/img/docs/628709_H9H70_1072_001_100_0000_Light-Mens-Gucci-Off-The-Grid-sneaker.jpg"
+    },
+    {
+      "itemId": "Prod002",
+      "description": "Product 5",
+      "price": "1400.00",
+      "quantity": 1,
+      "imageUrl": "https://developer.fawrystaging.com/fawrypay/img/docs/631216_ZAEBN_1000_001_100_0000_Light-Gucci-Off-The-Grid-zip-up-jacket.jpg"
+    }
+  ]
+}
